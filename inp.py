@@ -1,3 +1,3 @@
 chair=int(input())
-for x in rangw(0,chair):
+for x in range(0,chair):
    print("Hello")
